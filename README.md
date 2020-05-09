@@ -1,1 +1,1 @@
-# seminar_app
+# seminar_app_fail
